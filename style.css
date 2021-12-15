@@ -86,7 +86,7 @@ main {
 .close-btn {
   position: absolute;
   border: none;
-  color: rgb(204, 2, 2);
+  color: rgb(161, 1, 1);
   background: none;
   cursor: pointer;
   outline: none;
@@ -195,7 +195,7 @@ main {
   transform: rotateY(100deg);
   transform-origin: left;
   color: white;
-  background-color: rgb(204, 2, 2);
+  background-color: rgb(161, 1, 1);
   transition: transform var(--transition-length) ease-in-out;
   padding: 5rem 0;
   box-shadow: 5px 2px 5px 1px rgb(22, 22, 22);
