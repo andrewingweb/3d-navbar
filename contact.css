@@ -350,3 +350,15 @@ p {
       width: 99%;
     }
   }
+  .home{
+      position:absolute;
+      color: #bbb;
+      font-size: 2rem;
+      font-weight: 100;
+      letter-spacing:2px;
+      left:20px;
+      top:0px;
+  }
+  .home:hover{
+      color: #fff;
+  }
