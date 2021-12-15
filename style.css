@@ -127,7 +127,7 @@ main {
 .hero {
   margin-top: calc(var(--nav-bar-height) * -1);
   height: 700px;
-  background-image: url('tel_large_day.jpg');
+  background-image: url('/images/tel_large_day.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
