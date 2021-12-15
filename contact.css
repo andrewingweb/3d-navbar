@@ -51,7 +51,7 @@ header {
     
 
     /* Semi-transparent background */
-    background-color: rgba(0, 0, 0, 0.55);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 h1 {
@@ -279,7 +279,7 @@ p {
   }
   
   hr {
-    border-color: rgba(255,255,255,.6);
+    border-color: rgba(255,255,255,.8);
   }
   
   /* Begin Media Queries*/
@@ -352,13 +352,11 @@ p {
   }
   .home{
       position:absolute;
-      color: #bbb;
-      font-size: 2rem;
-      font-weight: 100;
-      letter-spacing:2px;
-      left:20px;
-      top:0px;
+      top: 15px;
+      left: 20px;
+      width: 40px;
+      
   }
   .home:hover{
-      color: #fff;
+    filter: brightness(150%);
   }
